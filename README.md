@@ -7,7 +7,14 @@ wNumb - JavaScript Number &amp; Money formatting
 
 Documentation and examples are available on [refreshless.com/wnumb](https://refreshless.com/wnumb/).
 
+This is a modification. The source was transferred to Typescript and the export is es-only.
+Functionality should be the same.
+
 # Changelog
+
+### 2.0.0 (*2024-03-06*)
+- Changed: Code is now in TypeScript
+- Added: Valid in module typing
 
 ### 1.2.0 (*2019-10-29*)
 - Changed: License is now MIT
